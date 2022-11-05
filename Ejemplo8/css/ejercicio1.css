@@ -1,0 +1,37 @@
+header{
+  height: 400px;
+  background: orange;
+}
+nav{
+  height: 75px;
+  background: red;
+}
+main{
+  height: 700px;
+  background: blue;
+}
+footer{
+  height: 100px;
+  background: black;
+}
+div{
+  height: 500px;
+  background: yellow;
+  margin-top: 75px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+section{
+  height: 400px;
+  background: gray;
+}
+p{
+  height: 200px;
+  background: green;
+  margin-bottom: 75px;
+}
+figure{
+  height: 400px;
+  width: 50%;
+  background: lime;
+}
